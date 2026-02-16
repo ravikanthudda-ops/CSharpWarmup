@@ -18,6 +18,18 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 - [x] Day 08 – Reverse a String
 - [x] Day 09 – Count Digits of a Number
 - [x] Day 10 – Sum of First N Numbers
+    -Second 10 Days
+- [ ] Day 11 – Sum of Digits of a Number (Math based using % 10)
+- [ ] Day 12 – Reverse a Number (e.g., 123 → 321)
+- [ ] Day 13 – Check Palindrome Number
+- [ ] Day 14 – Armstrong Number
+- [ ] Day 15 – Factorial of a Number
+- [ ] Day 16 – Print Fibonacci Series (first N terms)
+- [ ] Day 17 – Check Prime Number
+- [ ] Day 18 – Print Multiplication Table
+- [ ] Day 19 – Find GCD of Two Numbers
+- [ ] Day 20 – Count Vowels in a String
+
 
 ---
 
