@@ -19,7 +19,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 - [x] Day 09 – Count Digits of a Number
 - [x] Day 10 – Sum of First N Numbers
     -Second 10 Days
-- [ ] Day 11 – Sum of Digits of a Number (Math based using % 10)
+- [x] Day 11 – Sum of Digits of a Number (Math based using % 10)
 - [ ] Day 12 – Reverse a Number (e.g., 123 → 321)
 - [ ] Day 13 – Check Palindrome Number
 - [ ] Day 14 – Armstrong Number
@@ -35,8 +35,17 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 
 ## 📝 Progress Log (MM/DD/YYYY)
 
-- Day 01: Find the maximum number in an array. (02/14/2026) 🎯
-- Day 01: Reverse An Array. (02/16/2026) 🎯
+- Day 01: Print Hello, World! (02/08/2026) 🎯
+- Day 02: Print Name and Age (02/08/2026) 🎯
+- Day 03: Add Two Numbers (02/08/2026) 🎯
+- Day 04: Check Even or Odd (02/09/2026) 🎯
+- Day 05: Find Largest of Two Numbers (02/09/2026) 🎯
+- Day 06: Simple Calculator (Add / Subtract) (02/09/2026) 🎯
+- Day 07: Check Leap Year (02/09/2026) 🎯
+- Day 08: Reverse a String (02/09/2026) 🎯
+- Day 09: Count Digits of a Number (02/10/2026) 🎯
+- Day 10: Sum of First N Numbers (02/11/2026) 🎯
+- Day 11: Sum of Digits of a Number (Math based using % 10) (02/17/2026) 🎯 
 
 (Add one line here every day)
 
