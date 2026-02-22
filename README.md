@@ -20,7 +20,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 - [x] Day 10 – Sum of First N Numbers
     -Second 10 Days
 - [x] Day 11 – Sum of Digits of a Number (Math based using % 10)
-- [ ] Day 12 – Reverse a Number (e.g., 123 → 321)
+- [x] Day 12 – Reverse a Number (e.g., 123 → 321)
 - [ ] Day 13 – Check Palindrome Number
 - [ ] Day 14 – Armstrong Number
 - [ ] Day 15 – Factorial of a Number
@@ -46,6 +46,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 - Day 09: Count Digits of a Number (02/10/2026) 🎯
 - Day 10: Sum of First N Numbers (02/11/2026) 🎯
 - Day 11: Sum of Digits of a Number (Math based using % 10) (02/17/2026) 🎯 
+- Day 12: Rverse a Number (e.g., 123 → 321) (02/22/2026) 🎯 
 
 (Add one line here every day)
 
