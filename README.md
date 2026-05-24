@@ -10,7 +10,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 
 - [x] Day 01 – Hello World
 - [x] Day 02 – Print Name and Age
-- [ ] Day 03 – Add Two Numbers
+- [x] Day 03 – Add Two Numbers
 - [ ] Day 04 – Check Even or Odd
 - [ ] Day 05 – Find Largest of Two Numbers
 - [ ] Day 06 – Simple Calculator (Add / Subtract)
@@ -38,7 +38,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 (Add one line here every day)
 - Day 01: Print Hello, World! (05/24/2026) 🎯
 - Day 02: Print Name and Age! (05/24/2026) 🎯
-
+- Day 03: Add two numbers (05/24/2026) 🎯
 ---
 
 ## 🔧 .NET CLI Commands (Quick Reference)
