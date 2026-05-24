@@ -8,7 +8,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 
    -First 10 Days
 
-- [ ] Day 01 – Hello World
+- [x] Day 01 – Hello World
 - [ ] Day 02 – Print Name and Age
 - [ ] Day 03 – Add Two Numbers
 - [ ] Day 04 – Check Even or Odd
@@ -36,6 +36,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 ## 📝 Progress Log (MM/DD/YYYY)
 
 (Add one line here every day)
+- Day 01: Print Hello, World! (05/24/2026) 🎯
 
 ---
 
