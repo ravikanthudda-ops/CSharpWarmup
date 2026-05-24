@@ -8,21 +8,21 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 
    -First 10 Days
 
-- [x] Day 01 – Hello World
-- [x] Day 02 – Print Name and Age
-- [x] Day 03 – Add Two Numbers
-- [x] Day 04 – Check Even or Odd
-- [x] Day 05 – Find Largest of Two Numbers
-- [x] Day 06 – Simple Calculator (Add / Subtract)
-- [x] Day 07 – Check Leap Year
-- [x] Day 08 – Reverse a String
-- [x] Day 09 – Count Digits of a Number
-- [x] Day 10 – Sum of First N Numbers
+- [ ] Day 01 – Hello World
+- [ ] Day 02 – Print Name and Age
+- [ ] Day 03 – Add Two Numbers
+- [ ] Day 04 – Check Even or Odd
+- [ ] Day 05 – Find Largest of Two Numbers
+- [ ] Day 06 – Simple Calculator (Add / Subtract)
+- [ ] Day 07 – Check Leap Year
+- [ ] Day 08 – Reverse a String
+- [ ] Day 09 – Count Digits of a Number
+- [ ] Day 10 – Sum of First N Numbers
     -Second 10 Days
-- [x] Day 11 – Sum of Digits of a Number (Math based using % 10)
-- [x] Day 12 – Reverse a Number (e.g., 123 → 321)
-- [x] Day 13 – Check Palindrome Number
-- [x] Day 14 – Armstrong Number
+- [ ] Day 11 – Sum of Digits of a Number (Math based using % 10)
+- [ ] Day 12 – Reverse a Number (e.g., 123 → 321)
+- [ ] Day 13 – Check Palindrome Number
+- [ ] Day 14 – Armstrong Number
 - [ ] Day 15 – Factorial of a Number
 - [ ] Day 16 – Print Fibonacci Series (first N terms)
 - [ ] Day 17 – Check Prime Number
@@ -34,21 +34,6 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 ---
 
 ## 📝 Progress Log (MM/DD/YYYY)
-
-- Day 01: Print Hello, World! (02/08/2026) 🎯
-- Day 02: Print Name and Age (02/08/2026) 🎯
-- Day 03: Add Two Numbers (02/08/2026) 🎯
-- Day 04: Check Even or Odd (02/09/2026) 🎯
-- Day 05: Find Largest of Two Numbers (02/09/2026) 🎯
-- Day 06: Simple Calculator (Add / Subtract) (02/09/2026) 🎯
-- Day 07: Check Leap Year (02/09/2026) 🎯
-- Day 08: Reverse a String (02/09/2026) 🎯
-- Day 09: Count Digits of a Number (02/10/2026) 🎯
-- Day 10: Sum of First N Numbers (02/11/2026) 🎯
-- Day 11: Sum of Digits of a Number (Math based using % 10) (02/17/2026) 🎯 
-- Day 12: Reverse a Number (e.g., 123 → 321) (02/22/2026) 🎯 
-- Day 13: Check Palindrome Number (02/23/2026) 🎯 
-- Day 14: Armstrong Number (02/25/2026) 🎯 
 
 (Add one line here every day)
 
