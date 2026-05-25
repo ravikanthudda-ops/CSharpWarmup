@@ -1,5 +1,4 @@
-﻿using System;
-class EvenOdd
+﻿class EvenOdd
 {
     static void Main()
     {
