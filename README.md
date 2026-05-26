@@ -64,7 +64,7 @@
 - [x] Day 04 – Check Even or Odd
 - [x] Day 05 – Find Largest of Two Numbers
 - [x] Day 06 – Simple Calculator (Add / Subtract / Multiply / Divide)
-- [ ] Day 07 – Check Leap Year
+- [x] Day 07 – Check Leap Year
 - [ ] Day 08 – Reverse a String
 - [ ] Day 09 – Count Digits of a Number
 - [ ] Day 10 – Sum of First N Numbers
@@ -188,6 +188,7 @@
 - Day 04: Check Even or Odd (05/25/2026) 🎯
 - Day 05: Find Largest of Two Numbers (05/25/2026) 🎯
 - Day 06: Simple Calculator (Add / Subtract / Multiply / Divide) (05/25/2026) 🎯
+- Day 07: Check Leap Year (05/26/2026) 🎯
 ---
 
 ## �️ 8-Week Roadmap Overview
