@@ -58,13 +58,13 @@
 
 > Finish fast. These build the daily habit — but the real content starts Day 11.
 
-- [x] Day 01 – Hello World
-- [x] Day 02 – Print Name and Age
-- [x] Day 03 – Add Two Numbers
-- [x] Day 04 – Check Even or Odd
-- [x] Day 05 – Find Largest of Two Numbers
-- [x] Day 06 – Simple Calculator (Add / Subtract / Multiply / Divide)
-- [x] Day 07 – Check Leap Year
+- [ ] Day 01 – Hello World
+- [ ] Day 02 – Print Name and Age
+- [ ] Day 03 – Add Two Numbers
+- [ ] Day 04 – Check Even or Odd
+- [ ] Day 05 – Find Largest of Two Numbers
+- [ ] Day 06 – Simple Calculator (Add / Subtract / Multiply / Divide)
+- [ ] Day 07 – Check Leap Year
 - [ ] Day 08 – Reverse a String
 - [ ] Day 09 – Count Digits of a Number
 - [ ] Day 10 – Sum of First N Numbers
@@ -182,13 +182,27 @@
 ## 📝 Progress Log (MM/DD/YYYY)
 
 (Add one line here every day)
-- Day 01: Print Hello, World! (05/24/2026) 🎯
-- Day 02: Print Name and Age! (05/24/2026) 🎯
-- Day 03: Add two numbers (05/24/2026) 🎯
-- Day 04: Check Even or Odd (05/25/2026) 🎯
-- Day 05: Find Largest of Two Numbers (05/25/2026) 🎯
-- Day 06: Simple Calculator (Add / Subtract / Multiply / Divide) (05/25/2026) 🎯
-- Day 07: Check Leap Year (05/26/2026) 🎯
+- System Reset Restarted (07/07/2026) - focus on system over goals 🎯
+---
+
+## 🔁 Consistency System Reset (From 07/01/2026)
+
+This plan is designed to prevent stop-start cycles.
+
+1. Daily Minimum Rule: 25 focused minutes, no zero days.
+2. If-Then Rule: If energy is low, do only one micro task (compile plus one improvement) and still log the day.
+3. Recovery Rule: If a day is missed, restart next day with a 10-minute warmup, no guilt, no backlog pressure.
+4. Output Rule: End each study day with one proof of work (code change, note, or one solved exercise).
+5. Review Rule: Every Sunday, check the previous 7 days and adjust only the system, not the long-term goal.
+
+### Daily Checkpoint Template
+
+- Date:
+- Planned task:
+- Minimum completed (yes/no):
+- What blocked me:
+- Next step for tomorrow:
+
 ---
 
 ## �️ 8-Week Roadmap Overview
