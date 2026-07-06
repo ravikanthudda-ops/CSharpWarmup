@@ -59,9 +59,9 @@
 > Finish fast. These build the daily habit — but the real content starts Day 11.
 
 - [x] Day 01 – Hello World
-- [ ] Day 02 – Print Name and Age
-- [ ] Day 03 – Add Two Numbers
-- [ ] Day 04 – Check Even or Odd
+- [x] Day 02 – Print Name and Age
+- [x] Day 03 – Add Two Numbers
+- [x] Day 04 – Check Even or Odd
 - [ ] Day 05 – Find Largest of Two Numbers
 - [ ] Day 06 – Simple Calculator (Add / Subtract / Multiply / Divide)
 - [ ] Day 07 – Check Leap Year
@@ -184,6 +184,9 @@
 (Add one line here every day)
 - System Reset Restarted (07/07/2026) - focus on system over goals 🎯
 - Day 01: Print Hello, World! (07/07/2026) 🎯
+- Day 02: Print Name and Age! (07/07/2026) 🎯
+- Day 03: Add two numbers (07/07/2026) 🎯
+- Day 04: Check Even or Odd (07/07/2026) 🎯
 ---
 
 ## 🔁 Consistency System Reset (From 07/01/2026)
