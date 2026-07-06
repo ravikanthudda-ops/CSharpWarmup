@@ -58,7 +58,7 @@
 
 > Finish fast. These build the daily habit — but the real content starts Day 11.
 
-- [ ] Day 01 – Hello World
+- [x] Day 01 – Hello World
 - [ ] Day 02 – Print Name and Age
 - [ ] Day 03 – Add Two Numbers
 - [ ] Day 04 – Check Even or Odd
@@ -183,6 +183,7 @@
 
 (Add one line here every day)
 - System Reset Restarted (07/07/2026) - focus on system over goals 🎯
+- Day 01: Print Hello, World! (07/07/2026) 🎯
 ---
 
 ## 🔁 Consistency System Reset (From 07/01/2026)
