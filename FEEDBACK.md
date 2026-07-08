@@ -111,6 +111,16 @@ These are concepts you now understand because you made the mistake first — whi
 
 ---
 
+## Latest Review Notes
+
+| Date | Day | Feedback | Severity | Status |
+|------|-----|----------|----------|--------|
+| 07/08/2026 | Day 05 | Input prompt says "Enter any two numbers" but does not clarify input format (separate lines), which can confuse users | Low | Open |
+| 07/08/2026 | Day 05 | Output text "Both numbers are same" is understandable but grammatically awkward | Low | Open |
+| 07/08/2026 | Day 05 | Explicit `using System;` appears again while implicit usings are likely enabled, creating style inconsistency with modern project defaults | Low | Open |
+
+---
+
 ## Review History
 
 | Date | Days Reviewed | Issues Found | Issues Fixed |
@@ -120,3 +130,4 @@ These are concepts you now understand because you made the mistake first — whi
 | 05/27/2026 | Day 07 | 2 | 0 (boolean leap-year rule incorrect, class naming style suggestion) |
 | 05/27/2026 | Day 07 (re-check) | 1 | 1 (class naming fixed; leap-year condition still incorrect) |
 | 05/27/2026 | Day 07 (re-check 2) | 0 | 1 (leap-year condition fixed and validated with 1900/2000/2024) |
+| 07/08/2026 | Day 05 | 3 | 0 (prompt clarity, message wording, implicit usings style consistency) |

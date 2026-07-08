@@ -13,8 +13,12 @@ class EvenOdd
             }
             else
             {
-                Console.WriteLine("Odd Number");
+                Console.WriteLine("Odd number");
             }
+        }
+        else
+        {
+            Console.WriteLine("Invalid number");
         }
     }
 }

@@ -23,6 +23,7 @@
 - **Ask you questions back** — "What do you think will happen if the input is negative?" rather than showing corrected code
 - **Confirm your reasoning** — when you attempt a fix, Copilot will tell you whether your thinking is on the right track
 - **Explain the why** — after you solve it yourself, Copilot will explain the underlying concept so it sticks
+- **Log every review feedback in `FEEDBACK.md`** whenever you ask for a review, so recurring patterns are tracked over time
 
 ### What Copilot Will Not Do
 
