@@ -115,9 +115,19 @@ These are concepts you now understand because you made the mistake first — whi
 
 | Date | Day | Feedback | Severity | Status |
 |------|-----|----------|----------|--------|
+| 07/15/2026 | Day 09 | The zero case is still wrong: `counter` stays 0, so input `0` prints 0 digits instead of 1. | High | Open |
+| 07/15/2026 | Day 09 | The digit-count loop uses `i < 0`, so it only runs for negative numbers; positive inputs like `123` return 0 digits. | High | Open |
+| 07/15/2026 | Day 09 | Negative numbers are counted incorrectly because `number.ToString().Length` includes the minus sign, so `-123` is reported as 4 digits instead of 3. | Medium | Open |
+| 07/15/2026 | Day 07 | The final century-year check is still inverted: `yy % 400 != 0` rejects valid leap years like 2000 instead of accepting them. | High | Open |
+| 07/15/2026 | Day 07 | Leap-year condition is still too broad: the `||` allows any year divisible by 4 to pass, so century non-leap years like 1900 are still treated as leap years. | High | Open |
+| 07/15/2026 | Day 07 | Leap-year logic is reversed for normal leap years and still does not check the 400-year exception, so values like 2024 are rejected and 1900 is accepted. | High | Open |
 | 07/08/2026 | Day 05 | Input prompt says "Enter any two numbers" but does not clarify input format (separate lines), which can confuse users | Low | Open |
 | 07/08/2026 | Day 05 | Output text "Both numbers are same" is understandable but grammatically awkward | Low | Open |
 | 07/08/2026 | Day 05 | Explicit `using System;` appears again while implicit usings are likely enabled, creating style inconsistency with modern project defaults | Low | Open |
+| 07/08/2026 | Day 06 | Division branch calls `add` instead of `divide`, so option 4 returns wrong results | High | Open |
+| 07/08/2026 | Day 06 | Zero-check compares raw string (`num2 != "0"`) instead of parsed numeric value, so inputs like `0.0` are mishandled | High | Open |
+| 07/08/2026 | Day 06 | Unused import `using System.Linq.Expressions;` adds noise and triggers style warnings | Low | Open |
+| 07/08/2026 | Day 06 | Method names use camelCase (`add`, `subtract`, etc.) instead of PascalCase for C# methods | Low | Open |
 
 ---
 
@@ -125,9 +135,17 @@ These are concepts you now understand because you made the mistake first — whi
 
 | Date | Days Reviewed | Issues Found | Issues Fixed |
 |------|---------------|--------------|--------------|
+| 07/15/2026 | Day 09 (re-check 2) | 1 | 0 |
+| 07/15/2026 | Day 09 (re-check) | 1 | 0 |
+| 07/15/2026 | Day 09 | 1 | 0 |
+| 07/15/2026 | Day 01–06 | 3 | 0 |
+| 07/15/2026 | Day 06 (re-check) | 0 | 3 (divide guard, naming, unused using) |
+| 07/15/2026 | Day 07 | 1 | 0 |
+| 07/15/2026 | Day 07 | 1 | 0 |
 | 05/25/2026 | Day 01–05 | 4 | 3 (naming in Day02, redundant using in Day04, TryParse pattern in Day05) |
 | 05/25/2026 | Day 06 | 4 | 4 (decimal return type, Divide rename, specific exception catch, type selection for menu option) |
 | 05/27/2026 | Day 07 | 2 | 0 (boolean leap-year rule incorrect, class naming style suggestion) |
 | 05/27/2026 | Day 07 (re-check) | 1 | 1 (class naming fixed; leap-year condition still incorrect) |
 | 05/27/2026 | Day 07 (re-check 2) | 0 | 1 (leap-year condition fixed and validated with 1900/2000/2024) |
 | 07/08/2026 | Day 05 | 3 | 0 (prompt clarity, message wording, implicit usings style consistency) |
+| 07/08/2026 | Day 06 | 4 | 0 (wrong operation in divide branch, fragile zero-check, unused import, method naming style) |

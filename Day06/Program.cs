@@ -1,20 +1,19 @@
 ﻿using System;
-using System.Linq.Expressions;
 class Calculator
 {
-    double add(double num1, double num2)
+    double Add(double num1, double num2)
     {
         return num1+num2;
     }
-    double subtract(double num1, double num2)
+    double Subtract(double num1, double num2)
     {
         return num1-num2;
     }
-    double multiply(double num1, double num2)
+    double Multiply(double num1, double num2)
     {
         return num1*num2;
     }
-    double divide(double num1, double num2)
+    double Divide(double num1, double num2)
     {   
         return num1/num2;
     }
@@ -32,20 +31,20 @@ class Calculator
       switch(opt)
         {
             case "1":
-                result = calc.add(number1, number2);
+                result = calc.Add(number1, number2);
                 Console.WriteLine($"Addition of {num1} and {num2} is {result}");
             break;
             case "2":
-                result = calc.subtract(number1, number2);
+                result = calc.Subtract(number1, number2);
                 Console.WriteLine($"Subtraction of {num1} and {num2} is {result}");
             break;
             case "3":
-                result = calc.multiply(number1, number2);
+                result = calc.Multiply(number1, number2);
                 Console.WriteLine($"Multiplication of {num1} and {num2} is {result}");
             break;
             case "4":
-                if(num2!="0"){
-                    result = calc.divide(number1, number2);
+                if(number2!=0){
+                    result = calc.Divide(number1, number2);
                     Console.WriteLine($"Division of {num1} and {num2} is {result}");
                 }
                 else

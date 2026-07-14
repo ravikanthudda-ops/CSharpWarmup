@@ -63,11 +63,11 @@
 - [x] Day 02 – Print Name and Age
 - [x] Day 03 – Add Two Numbers
 - [x] Day 04 – Check Even or Odd
-- [ ] Day 05 – Find Largest of Two Numbers
-- [ ] Day 06 – Simple Calculator (Add / Subtract / Multiply / Divide)
-- [ ] Day 07 – Check Leap Year
-- [ ] Day 08 – Reverse a String
-- [ ] Day 09 – Count Digits of a Number
+- [x] Day 05 – Find Largest of Two Numbers
+- [x] Day 06 – Simple Calculator (Add / Subtract / Multiply / Divide)
+- [x] Day 07 – Check Leap Year
+- [x] Day 08 – Reverse a String
+- [x] Day 09 – Count Digits of a Number
 - [ ] Day 10 – Sum of First N Numbers
 
 ---
@@ -188,6 +188,11 @@
 - Day 02: Print Name and Age! (07/07/2026) 🎯
 - Day 03: Add two numbers (07/07/2026) 🎯
 - Day 04: Check Even or Odd (07/07/2026) 🎯
+- Day 05: Find Largest of Two Numbers (07/08/2026) 🎯
+- Day 06: Simple Calculator (Add / Subtract / Multiply / Divide) (07/08/2026) 🎯
+- Day 07: Check Leap Year (07/14/2026) 🎯
+- Day 08: Reverse a String (07/14/2026) 🎯
+- Day 09: Count Digits of a Number (07/14/2026) 🎯
 ---
 
 ## 🔁 Consistency System Reset (From 07/01/2026)
