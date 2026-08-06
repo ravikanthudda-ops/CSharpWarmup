@@ -60,7 +60,7 @@
 > Finish fast. These build the daily habit — but the real content starts Day 11.
 
 - [x] Day 01 – Hello World
-- [ ] Day 02 – Print Name and Age
+- [x] Day 02 – Print Name and Age
 - [ ] Day 03 – Add Two Numbers
 - [ ] Day 04 – Check Even or Odd
 - [ ] Day 05 – Find Largest of Two Numbers
@@ -183,10 +183,13 @@
 ## 📝 Progress Log (MM/DD/YYYY)
 
 (Add one line here every day)
-- System Reset Restarted (07/07/2026) - focus on system over goals 🎯
+- System Reset Restarted (07/08/2026) - focus on system over goals 🎯
+- Day 01: Print Hello, World! (07/08/2026) 🎯
+- Day 02: Print Name and Age! (07/08/2026) 🎯
+
 ---
 
-## 🔁 Consistency System Reset (From 07/01/2026)
+## 🔁 Consistency System Reset (From 07/08/2026)
 
 This plan is designed to prevent stop-start cycles.
 
