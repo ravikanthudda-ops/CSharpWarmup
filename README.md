@@ -24,8 +24,8 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 
 - [x] Day 01 - Hello World
 - [x] Day 02 - Print Name and Age
-- [ ] Day 03 - Add Two Numbers
-- [ ] Day 04 - Check Even or Odd
+- [x] Day 03 - Add Two Numbers
+- [x] Day 04 - Check Even or Odd
 - [ ] Day 05 - Find Largest of Two Numbers
 - [ ] Day 06 - Simple Calculator (Add / Subtract / Multiply / Divide)
 - [ ] Day 07 - Check Leap Year
@@ -113,9 +113,11 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 
 ## Progress Log
 
-- System Reset Restarted (07/08/2026) - focus on system over goals
-- Day 01: Print Hello, World! (07/08/2026)
-- Day 02: Print Name and Age! (07/08/2026)
+- System Reset Restarted (08/07/2026) - focus on system over goals
+- Day 01: Print Hello, World! (08/07/2026)
+- Day 02: Print Name and Age! (08/07/2026)
+- Day 03: Add two numbers! (08/07/2026)
+- Day 04: Check Even or Odd (08/07/2026)
 
 ## Quick Commands
 
