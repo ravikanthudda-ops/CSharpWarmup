@@ -1,8 +1,13 @@
 ﻿using System;
-class HelloWorld
+using static System.Console;
+public class HelloWorld
 {
-    static void Main()
+    public static string GetMessage()
     {
-        Console.WriteLine("Hello, World!");
+        return "Hello, World!";
+    }
+    public static void Main()
+    {
+        WriteLine(GetMessage());
     }
 }

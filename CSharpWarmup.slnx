@@ -1,7 +1,9 @@
 <Solution>
+  <Project Path="CSharpWarmup.Tests/CSharpWarmup.Tests.csproj" />
   <Project Path="Day01/Day01.csproj" />
   <Project Path="Day02/Day02.csproj" />
   <Project Path="Day03/Day03.csproj" />
   <Project Path="Day04/Day04.csproj" />
   <Project Path="Day05/Day05.csproj" />
+  <Project Path="Day06/Day06.csproj" />
 </Solution>

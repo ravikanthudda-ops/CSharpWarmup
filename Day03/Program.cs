@@ -1,6 +1,10 @@
 ﻿using System;
-class AddNumber
+public class AddNumber
 {
+    public static int Addition(int num1, int num2)
+    {
+        return num1+num2;
+    }
     static void Main()
     {
         Console.WriteLine("Enter first number");
@@ -10,8 +14,7 @@ class AddNumber
 
         if(int.TryParse(num1,out int number1) && int.TryParse(num2, out int number2))
         {
-            int result = number1+number2;
-            Console.WriteLine($"Sum of {number1} and {number2} is {result}");
+            Console.WriteLine($"Sum of {number1} and {number2} is {Addition(number1, number2)}");
         }
         else
         {

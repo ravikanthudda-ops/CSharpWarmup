@@ -27,7 +27,7 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - [x] Day 03 - Add Two Numbers
 - [x] Day 04 - Check Even or Odd
 - [x] Day 05 - Find Largest of Two Numbers
-- [ ] Day 06 - Simple Calculator (Add / Subtract / Multiply / Divide)
+- [x] Day 06 - Simple Calculator (Add / Subtract / Multiply / Divide)
 - [ ] Day 07 - Check Leap Year
 - [ ] Day 08 - Reverse a String
 - [ ] Day 09 - Count Digits of a Number
@@ -119,17 +119,27 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - Day 03: Add two numbers! (08/07/2026) 🎯
 - Day 04: Check Even or Odd (08/07/2026) 🎯
 - Day 05: Find Largest of Two Numbers (08/07/2026) 🎯
+- Day 06: Simple Calculator (08/08/2026) 🎯
 
 ## Quick Commands
 
 ```bash
 # From Career/CSharpWarmup
-dotnet build Practice/Practice.slnx
 
-# Create a new day project
-dotnet new console -n DayXX
-dotnet sln add Practice/DayXX/DayXX.csproj
+# Build the solution
+dotnet build CSharpWarmup.sln
 
-# Run a day project
-dotnet run --project Practice/DayXX
-```
+# Run a specific day
+dotnet run --project Day06
+
+# Run all tests
+dotnet test CSharpWarmup.Tests
+
+# Run only Day06 tests
+dotnet test CSharpWarmup.Tests --filter "ClassName~Day06Tests"
+
+# Run a specific test class
+dotnet test CSharpWarmup.Tests --filter "ClassName~CalculatorTest"
+
+# Run a specific test
+dotnet test CSharpWarmup.Tests --filter "FullyQualifiedName~Division_ByZero_ShouldThrowDivideByZeroException"
