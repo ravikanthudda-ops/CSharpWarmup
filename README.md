@@ -28,7 +28,7 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - [x] Day 04 - Check Even or Odd
 - [x] Day 05 - Find Largest of Two Numbers
 - [x] Day 06 - Simple Calculator (Add / Subtract / Multiply / Divide)
-- [ ] Day 07 - Check Leap Year
+- [x] Day 07 - Check Leap Year
 - [ ] Day 08 - Reverse a String
 - [ ] Day 09 - Count Digits of a Number
 - [ ] Day 10 - Sum of First N Numbers
@@ -120,6 +120,7 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - Day 04: Check Even or Odd (08/07/2026) 🎯
 - Day 05: Find Largest of Two Numbers (08/07/2026) 🎯
 - Day 06: Simple Calculator (08/08/2026) 🎯
+- Day 06: Check Leap Year (08/09/2026) 🎯
 
 ## Quick Commands
 
@@ -131,6 +132,9 @@ dotnet build CSharpWarmup.sln
 
 # Run a specific day
 dotnet run --project Day06
+
+# Add Project reference to Test
+dotnet add CSharpWarmup.Tests.csproj reference /r/Learning/Career/CSharpWarmup/Day07/Day07.csproj
 
 # Run all tests
 dotnet test CSharpWarmup.Tests
