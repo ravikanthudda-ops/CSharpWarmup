@@ -29,7 +29,7 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - [x] Day 05 - Find Largest of Two Numbers
 - [x] Day 06 - Simple Calculator (Add / Subtract / Multiply / Divide)
 - [x] Day 07 - Check Leap Year
-- [ ] Day 08 - Reverse a String
+- [x] Day 08 - Reverse a String
 - [ ] Day 09 - Count Digits of a Number
 - [ ] Day 10 - Sum of First N Numbers
 
@@ -120,8 +120,8 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - Day 04: Check Even or Odd (08/07/2026) 🎯
 - Day 05: Find Largest of Two Numbers (08/07/2026) 🎯
 - Day 06: Simple Calculator (08/08/2026) 🎯
-- Day 06: Check Leap Year (08/09/2026) 🎯
-
+- Day 07: Check Leap Year (08/09/2026) 🎯
+- Day 08: Reverse a String (08/10/2026) 🎯
 ## Quick Commands
 
 ```bash
@@ -147,3 +147,12 @@ dotnet test CSharpWarmup.Tests --filter "ClassName~CalculatorTest"
 
 # Run a specific test
 dotnet test CSharpWarmup.Tests --filter "FullyQualifiedName~Division_ByZero_ShouldThrowDivideByZeroException"
+
+# Run all tests
+dotnet test
+
+# Run a specific test class
+dotnet test --filter "FullyQualifiedName~ReverseStringTests"
+
+# Run a specific test method
+dotnet test --filter "FullyQualifiedName~ReversedString_ShouldReturnCorrectResult"
