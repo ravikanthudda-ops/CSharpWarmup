@@ -30,7 +30,7 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - [x] Day 06 - Simple Calculator (Add / Subtract / Multiply / Divide)
 - [x] Day 07 - Check Leap Year
 - [x] Day 08 - Reverse a String
-- [ ] Day 09 - Count Digits of a Number
+- [x] Day 09 - Count Digits of a Number
 - [ ] Day 10 - Sum of First N Numbers
 
 ### Week 2 - Modern C# features (Days 11-20)
@@ -122,6 +122,7 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - Day 06: Simple Calculator (08/08/2026) 🎯
 - Day 07: Check Leap Year (08/09/2026) 🎯
 - Day 08: Reverse a String (08/10/2026) 🎯
+- Day 09: Count Digits of a Number (08/16/2026) 🎯
 ## Quick Commands
 
 ```bash
