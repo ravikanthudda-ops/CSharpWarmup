@@ -96,6 +96,37 @@ For the next few exercises, keep the solution simple but make sure each one show
 ## Bottom line
 You are already doing several things right: the progression is good, the tests are helpful, and the code is easy to understand. The biggest improvement now is not complexity; it is discipline. If you keep your solutions testable, slightly more structured, and more aware of edge cases, your repo will feel much more interview-ready.
 
+## Future correction revisit tracker
+Use this section whenever you fix or improve an exercise, then revisit it after a few days to confirm the quality is stable.
+
+### How to use this tracker
+- Add one row when a correction is identified.
+- Update status after implementation and after revisit validation.
+- Keep evidence short: command used, test count, or behavior confirmed.
+
+### Status legend
+- Open: issue found, not fixed yet
+- Fixed: code changed, waiting for revisit
+- Revisited: validated after some time, stable
+
+### Correction log
+| Date | Exercise | Issue category | Action taken | Evidence | Status | Revisit date |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-01 | Day10 | Test coverage | Merged positive, negative, and boundary cases into one theory | `dotnet test CSharpWarmup.Tests --filter "FullyQualifiedName~SumOfFirstXNumber_ShouldReturnCorrectResult"` -> total 11, passed 11 | Fixed | 2026-09-05 |
+| 2026-09-01 | Day10 | Test command reliability | Updated README test filters from `ClassName` style to `FullyQualifiedName` style | Filter now resolves Day10 test method consistently | Fixed | 2026-09-05 |
+
+### Revisit checklist (quick)
+- Is the core logic still separate from console I/O?
+- Are edge cases still covered by tests?
+- Are test filter commands still valid and easy to use?
+- Any regression in readability or naming?
+- Any performance red flag for large input?
+
+### Exit criteria for each correction
+- At least one targeted test proves the fix.
+- One follow-up revisit confirms no regression.
+- Note updated from Fixed to Revisited with date.
+
 ## Exercise-by-exercise interview checklist
 Use this checklist while you improve each exercise.
 

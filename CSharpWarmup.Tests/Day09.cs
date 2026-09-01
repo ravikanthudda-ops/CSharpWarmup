@@ -2,6 +2,7 @@
 
 public class Day09
 {
+    [Fact]
     public void CountDigitInNumber_ShouldReturnDigitCount()
     {
         // Arrange

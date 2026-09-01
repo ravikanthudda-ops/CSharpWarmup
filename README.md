@@ -31,7 +31,7 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - [x] Day 07 - Check Leap Year
 - [x] Day 08 - Reverse a String
 - [x] Day 09 - Count Digits of a Number
-- [ ] Day 10 - Sum of First N Numbers
+- [x] Day 10 - Sum of First N Numbers
 
 ### Week 2 - Modern C# features (Days 11-20)
 
@@ -123,6 +123,7 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - Day 07: Check Leap Year (08/09/2026) 🎯
 - Day 08: Reverse a String (08/10/2026) 🎯
 - Day 09: Count Digits of a Number (08/16/2026) 🎯
+- Day 10: Sum of First N Numbers (09/01/2026) 🎯
 ## Quick Commands
 
 ```bash
@@ -134,26 +135,26 @@ dotnet build CSharpWarmup.sln
 # Run a specific day
 dotnet run --project Day06
 
+#add new class
+ dotnet new class -n Day10
+
 # Add Project reference to Test
 dotnet add CSharpWarmup.Tests.csproj reference /r/Learning/Career/CSharpWarmup/Day07/Day07.csproj
 
 # Run all tests
 dotnet test CSharpWarmup.Tests
 
-# Run only Day06 tests
-dotnet test CSharpWarmup.Tests --filter "ClassName~Day06Tests"
+# List tests first (helps confirm exact filter names)
+dotnet test CSharpWarmup.Tests --list-tests
 
-# Run a specific test class
-dotnet test CSharpWarmup.Tests --filter "ClassName~CalculatorTest"
-
-# Run a specific test
-dotnet test CSharpWarmup.Tests --filter "FullyQualifiedName~Division_ByZero_ShouldThrowDivideByZeroException"
-
-# Run all tests
-dotnet test
-
-# Run a specific test class
-dotnet test --filter "FullyQualifiedName~ReverseStringTests"
+# Run tests for one class (example: Day10)
+dotnet test CSharpWarmup.Tests --filter "FullyQualifiedName~CSharpWarmup.Tests.Day10"
 
 # Run a specific test method
-dotnet test --filter "FullyQualifiedName~ReversedString_ShouldReturnCorrectResult"
+dotnet test CSharpWarmup.Tests --filter "FullyQualifiedName~SumOfFirstXNumber_ShouldReturnSum"
+
+# Run tests by day pattern (example: Day06)
+dotnet test CSharpWarmup.Tests --filter "FullyQualifiedName~CSharpWarmup.Tests.Day06"
+
+# Alternative: run tests from current folder
+dotnet test --filter "FullyQualifiedName~CSharpWarmup.Tests.Day10"
