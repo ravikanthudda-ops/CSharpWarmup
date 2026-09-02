@@ -33,83 +33,98 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - [x] Day 09 - Count Digits of a Number
 - [x] Day 10 - Sum of First N Numbers
 
-### Week 2 - Modern C# features (Days 11-20)
+### Week 2 - Analytical brainstroming
 
-- [ ] Day 11 - record types + init-only properties
-- [ ] Day 12 - Pattern matching (switch expressions, is, when)
-- [ ] Day 13 - Nullable reference types (?, !, ??, ?.)
-- [ ] Day 14 - LINQ deep dive (GroupBy, SelectMany, Aggregate)
-- [ ] Day 15 - async/await and Task basics
-- [ ] Day 16 - IDisposable, using, IAsyncDisposable
-- [ ] Day 17 - Generics with constraints
-- [ ] Day 18 - Tuples and deconstruction
-- [ ] Day 19 - Extension methods
-- [ ] Day 20 - Span<T> and Memory<T> basics
+- [x] Day 11 - Write a program that reads 5 numbers and prints their sum and average.
+- [ ] Day 12 - Write a program that checks if a user-entered number is prime.
+- [ ] Day 13 - Write a program that reads a string and counts vowels and consonants.
+- [ ] Day 14 - Write a program to check whether a string reads the same forward and backward.
+- [ ] Day 15 - Write a program that prints all even numbers up to N and print count of even numbers.
+- [ ] Day 16 - Write a program that calculates the factorial using a loop.
+- [ ] Day 17 - Read 3 numbers and print the smallest, largest, and middle value.
+- [ ] Day 18 - Write a program that prints the multiplication table for a number from 1 to 10.
+- [ ] Day 19 - Read a number and count how many times each digit appears and Print the digit that appears the most.
+- [ ] Day 20 - Write a program to check a leap year.
+- [ ] Day 21 - Read a sentence and count the number of words and spaces.
+- [ ] Day 22 - Write a program that adds only odd numbers from 1 to N.
 
-### Week 3 - Async and concurrency (Days 21-30)
+### Week 3 - Modern C# features (Days 23-32)
 
-- [ ] Day 21 - IMemoryCache basics
-- [ ] Day 22 - CancellationToken
-- [ ] Day 23 - Task.WhenAll / Task.WhenAny
-- [ ] Day 24 - Channel<T> producer-consumer
-- [ ] Day 25 - SemaphoreSlim throttling
-- [ ] Day 26 - IHostedService
-- [ ] Day 27 - Parallel.ForEachAsync
-- [ ] Day 28 - Middleware pipeline demo
-- [ ] Day 29 - HttpClientFactory + Polly
-- [ ] Day 30 - JWT basics
+- [ ] Day 23 - record types + init-only properties
+- [ ] Day 24 - Pattern matching (switch expressions, is, when)
+- [ ] Day 25 - Nullable reference types (?, !, ??, ?. )
+- [ ] Day 26 - LINQ deep dive (GroupBy, SelectMany, Aggregate)
+- [ ] Day 27 - async/await and Task basics
+- [ ] Day 28 - IDisposable, using, IAsyncDisposable
+- [ ] Day 29 - Generics with constraints
+- [ ] Day 30 - Tuples and deconstruction
+- [ ] Day 31 - Extension methods
+- [ ] Day 32 - Span<T> and Memory<T> basics
 
-### Week 4 - Architecture and design concepts (Days 31-40)
+### Week 3 - Async and concurrency (Days 33-42)
 
-- [ ] Day 31 - Repository pattern
-- [ ] Day 32 - Unit of Work pattern
-- [ ] Day 33 - Factory pattern
-- [ ] Day 34 - Strategy pattern
-- [ ] Day 35 - Decorator pattern
-- [ ] Day 36 - Observer pattern
-- [ ] Day 37 - SOLID demonstrations
-- [ ] Day 38 - CQRS basics
-- [ ] Day 39 - Clean Architecture layering
-- [ ] Day 40 - Dapper vs EF Core
+- [ ] Day 33 - IMemoryCache basics
+- [ ] Day 34 - CancellationToken
+- [ ] Day 35 - Task.WhenAll / Task.WhenAny
+- [ ] Day 36 - Channel<T> producer-consumer
+- [ ] Day 37 - SemaphoreSlim throttling
+- [ ] Day 38 - IHostedService
+- [ ] Day 39 - Parallel.ForEachAsync
+- [ ] Day 40 - Middleware pipeline demo
+- [ ] Day 41 - HttpClientFactory + Polly
+- [ ] Day 42 - JWT basics
 
-### Week 5-6 - SQL and performance (Days 41-50)
+### Week 4 - Architecture and design concepts (Days 43-52)
 
-- [ ] Day 41 - ROW_NUMBER, RANK, DENSE_RANK
-- [ ] Day 42 - LEAD, LAG, running totals
-- [ ] Day 43 - CTEs (including recursive)
-- [ ] Day 44 - Indexes and covering indexes
-- [ ] Day 45 - Execution plan reading
-- [ ] Day 46 - EF Core N+1 and fixes
-- [ ] Day 47 - Bulk operations comparison
-- [ ] Day 48 - Transaction isolation levels
-- [ ] Day 49 - Query optimization rewrite
-- [ ] Day 50 - OFFSET/FETCH vs keyset pagination
+- [ ] Day 43 - Repository pattern
+- [ ] Day 44 - Unit of Work pattern
+- [ ] Day 45 - Factory pattern
+- [ ] Day 46 - Strategy pattern
+- [ ] Day 47 - Decorator pattern
+- [ ] Day 48 - Observer pattern
+- [ ] Day 49 - SOLID demonstrations
+- [ ] Day 50 - CQRS basics
+- [ ] Day 51 - Clean Architecture layering
+- [ ] Day 52 - Dapper vs EF Core
 
-### Week 6-7 - Testing (Days 51-55)
+### Week 5-6 - SQL and performance (Days 53-62)
 
-- [ ] Day 51 - xUnit basics
-- [ ] Day 52 - Moq basics
-- [ ] Day 53 - Testing async methods
-- [ ] Day 54 - WebApplicationFactory integration test
-- [ ] Day 55 - Coverage mindset scenarios
+- [ ] Day 53 - ROW_NUMBER, RANK, DENSE_RANK
+- [ ] Day 54 - LEAD, LAG, running totals
+- [ ] Day 55 - CTEs (including recursive)
+- [ ] Day 56 - Indexes and covering indexes
+- [ ] Day 57 - Execution plan reading
+- [ ] Day 58 - EF Core N+1 and fixes
+- [ ] Day 59 - Bulk operations comparison
+- [ ] Day 60 - Transaction isolation levels
+- [ ] Day 61 - Query optimization rewrite
+- [ ] Day 62 - OFFSET/FETCH vs keyset pagination
 
-### Week 7-8 - DSA refresh (Days 56-70)
+### Week 6-7 - Testing (Days 63-67)
 
-- [ ] Day 56 - Two Sum (HashMap)
-- [ ] Day 57 - Sliding window max-sum subarray
-- [ ] Day 58 - Palindrome with two pointers
-- [ ] Day 59 - Reverse words in sentence
-- [ ] Day 60 - Most common character
-- [ ] Day 61 - Valid parentheses (Stack)
-- [ ] Day 62 - Queue using two stacks
-- [ ] Day 63 - Next greater element
-- [ ] Day 64 - Binary search (iterative + recursive)
-- [ ] Day 65 - Merge sort
-- [ ] Day 66 - Factorial/Fibonacci recursion vs iteration
-- [ ] Day 67 - Find duplicates and complexity comparison
-- [ ] Day 68 - BST insert and search
-- [ ] Day 69 - BFS level order
-- [ ] Day 70 - DFS in-order and pre-order
+- [ ] Day 63 - xUnit basics
+- [ ] Day 64 - Moq basics
+- [ ] Day 65 - Testing async methods
+- [ ] Day 66 - WebApplicationFactory integration test
+- [ ] Day 67 - Coverage mindset scenarios
+
+### Week 7-8 - DSA refresh (Days 68-82)
+
+- [ ] Day 68 - Two Sum (HashMap)
+- [ ] Day 69 - Sliding window max-sum subarray
+- [ ] Day 70 - Palindrome with two pointers
+- [ ] Day 71 - Reverse words in sentence
+- [ ] Day 72 - Most common character
+- [ ] Day 73 - Valid parentheses (Stack)
+- [ ] Day 74 - Queue using two stacks
+- [ ] Day 75 - Next greater element
+- [ ] Day 76 - Binary search (iterative + recursive)
+- [ ] Day 77 - Merge sort
+- [ ] Day 78 - Factorial/Fibonacci recursion vs iteration
+- [ ] Day 79 - Find duplicates and complexity comparison
+- [ ] Day 80 - BST insert and search
+- [ ] Day 81 - BFS level order
+- [ ] Day 82 - DFS in-order and pre-order
 
 ## Progress Log
 
@@ -124,6 +139,7 @@ Rebuild C# fluency through small daily programs, then progress to modern feature
 - Day 08: Reverse a String (08/10/2026) 🎯
 - Day 09: Count Digits of a Number (08/16/2026) 🎯
 - Day 10: Sum of First N Numbers (09/01/2026) 🎯
+- Day 11: Reads 5 numbers and prints their sum and average (09/02/2026) 🎯
 ## Quick Commands
 
 ```bash
